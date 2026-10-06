@@ -1,0 +1,16 @@
+{
+  "name": "誰が一番悪い？ 職員テスト",
+  "short_name": "責任のテスト",
+  "description": "5人の中で、一番悪いのは誰？ 正解のない責任判断のテストツール。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceff3",
+  "theme_color": "#131a23",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
